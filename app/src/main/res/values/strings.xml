@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HavaDuru</string>
+    <string name="widget_desc">Seçili şehrin anlık hava durumu</string>
+</resources>
